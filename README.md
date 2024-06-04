@@ -21,4 +21,5 @@ This project focuses on enabling or disabling the clickability of specific windo
     ```
 
 
-![image](https://github.com/emrcaca/noclickpip/assets/8650893/df8ed092-2d86-47e3-8c7b-d161fd0e101e)
+![image](https://github.com/emrcaca/noclickpip/assets/8650893/f26ed4c2-d708-4899-92b3-82676e422594)
+
