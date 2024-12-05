@@ -187,7 +187,7 @@ https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporYildiz" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11290418.png" group-title="Spor",TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-name="Line TV" tvg-language="Turkish" tvg-country="TR" tvg-id="LineTV.tr" tvg-logo="http://assets.tvcdn.net/bf3f550c-2235-4bb1-a842-6d0a38df0a90.png" group-title="Spor",Line TV
+#EXTINF:-1 tvg-name="Line TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_LineTV.tr" tvg-logo="http://assets.tvcdn.net/bf3f550c-2235-4bb1-a842-6d0a38df0a90.png" group-title="Spor",Line TV
 http://stream.tvcdn.net/yerel/line-tv-bursa.m3u8
 
 #EXTINF:-1 tvg-name="A Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_A.tr" tvg-logo="https://iaspr.tmgrup.com.tr/site/v3/video/i/aspor-kck.png" group-title="Spor",A Spor
