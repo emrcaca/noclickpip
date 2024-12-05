@@ -191,7 +191,7 @@ https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 http://stream.tvcdn.net/yerel/line-tv-bursa.m3u8
 
 #EXTINF:-1 tvg-name="A Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_A.tr" tvg-logo="https://iaspr.tmgrup.com.tr/site/v3/video/i/aspor-kck.png" group-title="Spor",A Spor
-https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1733379709&st=JYiULmMTWZ6wpUfMlq5QcA&sid=6yqnz40v63ro&app=45f847c4-04e8-419a-a561-2ebf87084765&ce=3
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p-1733411970000.ts?e=1733458973&st=7hv9EBRGnGzAB2sTsA4k1A
 
 #EXTINF:-1 tvg-name="Sports TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SportsTV" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
