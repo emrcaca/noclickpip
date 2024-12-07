@@ -208,7 +208,7 @@ http://stream.tvcdn.net/spor/fb-tv.m3u8
 http://stream.tvcdn.net/yerel/line-tv-bursa.m3u8
 
 #EXTINF:-1 tvg-name="A Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_A.tr" tvg-logo="https://iaspr.tmgrup.com.tr/site/v3/video/i/aspor-kck.png" group-title="Spor",A Spor
-https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1733459157&st=ISuOTe7zfFz_L4ivwk3D9Q&sid=6yty3g4rjnyy&app=45f847c4-04e8-419a-a561-2ebf87084765&ce=3
+https://cdn403.mobiltv.net/aspor.m3u8?tkn=QaYlo2oBclgHDV5lqhvjLQ&tms=1733598898&hst=tv.mobiltv.net&ip=95.70.162.26&source=aspor
 
 #EXTINF:-1 tvg-name="NBA TV" tvg-language="English" tvg-country="USA" tvg-id="Spor_NBATV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
